@@ -16,25 +16,32 @@
 #define LOG_MODULE "App"
 #define LOG_LEVEL LOG_LEVEL_INFO
 
+/* Button HAL */
+#include "dev/button-hal.h"
 
 #define WITH_SERVER_REPLY  1
 #define UDP_CLIENT_PORT 8765
 #define UDP_SERVER_PORT 5678
 
+/* Se fija el envio cada 5 segundos */
+#define SEND_INTERVAL      (5 * CLOCK_SECOND)
 
-#define SEND_INTERVAL      (10 * CLOCK_SECOND)
 
+/* Unidad */
+#define UNIT_C 0x01
+#define UNIT_F 0x02
 
 static struct simple_udp_connection udp_conn;
 static uint32_t rx_count = 0;
 
+/* Por defecto Celsius */
+static uint8_t unit = UNIT_C; 
 
 /*---------------------------------------------------------------------------*/
 PROCESS(udp_client_process, "UDP client");
 AUTOSTART_PROCESSES(&udp_client_process);
 /*---------------------------------------------------------------------------*/
-static void
-udp_rx_callback(struct simple_udp_connection *c,
+static void udp_rx_callback(struct simple_udp_connection *c,
         const uip_ipaddr_t *sender_addr,
         uint16_t sender_port,
         const uip_ipaddr_t *receiver_addr,
@@ -62,9 +69,11 @@ udp_rx_callback(struct simple_udp_connection *c,
 
  rx_count++;
 }
+
 /*---------------------------------------------------------------------------*/
 PROCESS_THREAD(udp_client_process, ev, data)
 {
+  
  static struct etimer periodic_timer;
  static char str[32];
  uip_ipaddr_t dest_ipaddr;
@@ -81,58 +90,56 @@ PROCESS_THREAD(udp_client_process, ev, data)
 
 
  etimer_set(&periodic_timer, random_rand() % SEND_INTERVAL);
+
  while(1) {
-   PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&periodic_timer));
+   PROCESS_YIELD();
+
+    /* Botón: alterna unidad */
+    if(ev == button_hal_press_event) {
+      unit = (unit == UNIT_C) ? UNIT_F : UNIT_C;
+      LOG_INFO("Botón pulsado -> unidad ahora: %s\n", (unit == UNIT_C) ? "Celsius" : "Fahrenheit");
+    }
 
 
-   if(NETSTACK_ROUTING.node_is_reachable() &&
-       NETSTACK_ROUTING.get_root_ipaddr(&dest_ipaddr)) {
+       /* Envío cada 5 segundos */
+    if(etimer_expired(&periodic_timer)) {
 
+      if(NETSTACK_ROUTING.node_is_reachable() &&
+         NETSTACK_ROUTING.get_root_ipaddr(&dest_ipaddr)) {
 
-     int temp_c;
+        int temp_c;
 
+        tx_count++;
 
-     /* Incrementar contador de envíos */
-     tx_count++;
+        if(tx_count % 10 == 0) {
+          LOG_INFO("Tx/Rx/MissedTx: %" PRIu32 "/%" PRIu32 "/%" PRIu32 "\n",
+                   tx_count, rx_count, missed_tx_count);
+        }
 
+        /* Valores de prueba como tenías */
+        if(tx_count % 2 == 1) {
+          temp_c = 42;
+          LOG_INFO("Enviando temperatura interna en Celsius = %d\n", temp_c);
+        } else {
+          temp_c = 27;
+          LOG_INFO("Enviando temperatura externa en Celsius = %d\n", temp_c);
+        }
 
-     /* (Opcional) estadísticas cada 10 envíos */
-     if(tx_count % 10 == 0) {
-       LOG_INFO(" Tx/Rx/MissedTx: %" PRIu32 "/%" PRIu32 "/%" PRIu32 "\n",
-                tx_count, rx_count, missed_tx_count);
-     }
+        /* Payload texto por ahora */
+        snprintf(str, sizeof(str), "%d", temp_c);
+        simple_udp_sendto(&udp_conn, str, strlen(str), &dest_ipaddr);
 
+      } else {
+        LOG_INFO("Not reachable yet\n");
+        if(tx_count > 0) {
+          missed_tx_count++;
+        }
+      }
 
-     /* Par/impar → interna/externa, con los mismos valores que el ejemplo */
-     if(tx_count % 2 == 1) {
-       temp_c = 42;  /* interna */
-       LOG_INFO(" Enviando temperatura interna en Celsius = %d\n", temp_c);
-     } else {
-       temp_c = 27;  /* externa */
-       LOG_INFO(" Enviando temperatura externa en Celsius = %d\n", temp_c);
-     }
-
-
-     /* Payload: temperatura en texto */
-     snprintf(str, sizeof(str), "%d", temp_c);
-
-
-     /* Enviar al servidor (root RPL) */
-     simple_udp_sendto(&udp_conn, str, strlen(str), &dest_ipaddr);
-
-
-   } else {
-     LOG_INFO(" Not reachable yet\n");
-     if(tx_count > 0) {
-       missed_tx_count++;
-     }
-   }
-
-
-   /* Jitter en el intervalo de envío */
-   etimer_set(&periodic_timer, SEND_INTERVAL
-     - CLOCK_SECOND + (random_rand() % (2 * CLOCK_SECOND)));
- }
+      /* Reset fijo */
+      etimer_reset(&periodic_timer);
+    }
+  }
 
 
  PROCESS_END();
