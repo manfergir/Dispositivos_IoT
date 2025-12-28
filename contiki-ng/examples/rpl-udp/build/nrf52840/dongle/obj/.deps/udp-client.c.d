@@ -63,7 +63,14 @@ build/nrf52840/dongle/obj/udp-client.o: udp-client.c ../../os/contiki.h \
  ../../os/net/ipv6/uip-ds6-route.h ../../os/lib/list.h \
  ../../os/net/ipv6/uip-sr.h ../../os/lib/random.h \
  ../../os/net/ipv6/simple-udp.h ../../os/sys/log.h \
- ../../os/sys/log-conf.h
+ ../../os/sys/log-conf.h ../../os/dev/button-hal.h \
+ ../../os/dev/gpio-hal.h ../../arch/cpu/nrf52840/./dev/gpio-hal-arch.h \
+ ../../arch/cpu/nrf52840/lib/nrf52-sdk/modules/nrfx/drivers/include/nrfx_gpiote.h \
+ ../../arch/cpu/nrf52840/lib/nrf52-sdk/modules/nrfx/hal/nrf_gpiote.h \
+ ../../arch/cpu/nrf52840/lib/nrf52-sdk/modules/nrfx/hal/nrf_gpio.h \
+ ../../os/sys/ctimer.h ../../os/dev/leds.h \
+ ../../os/../arch/platform/nrf52840/common/temperature-sensor.h \
+ ../../os/lib/sensors.h
 
 ../../os/contiki.h:
 
@@ -242,3 +249,23 @@ project-conf.h:
 ../../os/sys/log.h:
 
 ../../os/sys/log-conf.h:
+
+../../os/dev/button-hal.h:
+
+../../os/dev/gpio-hal.h:
+
+../../arch/cpu/nrf52840/./dev/gpio-hal-arch.h:
+
+../../arch/cpu/nrf52840/lib/nrf52-sdk/modules/nrfx/drivers/include/nrfx_gpiote.h:
+
+../../arch/cpu/nrf52840/lib/nrf52-sdk/modules/nrfx/hal/nrf_gpiote.h:
+
+../../arch/cpu/nrf52840/lib/nrf52-sdk/modules/nrfx/hal/nrf_gpio.h:
+
+../../os/sys/ctimer.h:
+
+../../os/dev/leds.h:
+
+../../os/../arch/platform/nrf52840/common/temperature-sensor.h:
+
+../../os/lib/sensors.h:
