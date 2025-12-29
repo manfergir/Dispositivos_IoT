@@ -17,126 +17,93 @@
 #define LOG_LEVEL LOG_LEVEL_INFO
 
 
-#define WITH_SERVER_REPLY  1
-#define UDP_CLIENT_PORT 8765
-#define UDP_SERVER_PORT 5678
+#include "contiki.h"
+#include "../arch/platform/nrf52840/common/temperature-sensor.h"
+#include "lib/sensors.h"
+#include "dev/button-hal.h"
+#include <stdio.h>
 
+/* Procesos */
+PROCESS(temp_reader_process, "Temperature reader");
+PROCESS(temp_timer_process,  "Temperature timer");
+AUTOSTART_PROCESSES(&temp_reader_process, &temp_timer_process);
 
-#define SEND_INTERVAL      (10 * CLOCK_SECOND)
+/* Estado del “interruptor” */
+static uint8_t switch_state = 0;
 
-
-static struct simple_udp_connection udp_conn;
-static uint32_t rx_count = 0;
-
-
-/*---------------------------------------------------------------------------*/
-PROCESS(udp_client_process, "UDP client");
-AUTOSTART_PROCESSES(&udp_client_process);
-/*---------------------------------------------------------------------------*/
-static void
-udp_rx_callback(struct simple_udp_connection *c,
-        const uip_ipaddr_t *sender_addr,
-        uint16_t sender_port,
-        const uip_ipaddr_t *receiver_addr,
-        uint16_t receiver_port,
-        const uint8_t *data,
-        uint16_t datalen)
+PROCESS_THREAD(temp_reader_process, ev, data)
 {
- char buf[16];
- int len;
- int temp_f;
+  static int32_t t_c;     /* raw del sensor (resolución 0.25ºC) */
+  static int32_t entero;  /* parte entera en ºC */
+  static int32_t decimal; /* parte decimal en ºC (00,25,50,75) */
 
+  /* Para Fahrenheit en centésimas (para imprimir con 2 decimales sin float) */
+  static int32_t c_x100;  /* ºC * 100 */
+  static int32_t f_x100;  /* ºF * 100 */
+  static int32_t f_entero;
+  static int32_t f_decimal;
 
- /* Copiar datos y terminar en '\0' */
- len = datalen < (sizeof(buf) - 1) ? datalen : (sizeof(buf) - 1);
- memcpy(buf, data, len);
- buf[len] = '\0';
+  PROCESS_BEGIN();
 
+  /* Activar el sensor interno de temperatura */
+  SENSORS_ACTIVATE(temperature_sensor);
 
- temp_f = atoi(buf);
+  while(1) {
+    /* Espera evento del temporizador O del botón */
+    PROCESS_YIELD();
 
+    /* --- Evento botón: toggle --- */
+    if(ev == button_hal_press_event) {
+      switch_state = !switch_state;
+      printf("switch=%u\n", switch_state);
+    }
 
- /* Mensaje como en la captura */
- LOG_INFO(" Temperatura en Fahrenheit calculada por el servidor: '%d' grados.\n", temp_f);
+    /* --- Evento temporizador: medir y enviar temps --- */
+    if(ev == PROCESS_EVENT_CONTINUE) {
 
+      /* Leer (en ºC raw) */
+      t_c = temperature_sensor.value(0);
 
- rx_count++;
+      /* Tu forma: parte entera y decimal */
+      entero  = t_c >> 2;
+      decimal = (t_c & 0b11) * 25;
+
+      /* Publicar temp_c con tu formato */
+      printf("temp_c=%ld.%02ld\n", (long)entero, (long)decimal);
+
+      /* Calcular Fahrenheit sin floats:
+         C*100 = entero*100 + decimal
+         F*100 = C*100 * 9/5 + 3200
+      */
+      c_x100 = entero * 100 + decimal;
+      f_x100 = (c_x100 * 9) / 5 + 3200;
+
+      f_entero  = f_x100 / 100;
+      f_decimal = f_x100 % 100;
+
+      printf("temp_F=%ld.%02ld\n", (long)f_entero, (long)f_decimal);
+    }
+  }
+
+  /* (No se alcanzará en este ejemplo) */
+  SENSORS_DEACTIVATE(temperature_sensor);
+  PROCESS_END();
 }
-/*---------------------------------------------------------------------------*/
-PROCESS_THREAD(udp_client_process, ev, data)
+
+PROCESS_THREAD(temp_timer_process, ev, data)
 {
- static struct etimer periodic_timer;
- static char str[32];
- uip_ipaddr_t dest_ipaddr;
- static uint32_t tx_count;
- static uint32_t missed_tx_count;
+  static struct etimer timer2s;
 
+  PROCESS_BEGIN();
 
- PROCESS_BEGIN();
+  while(1) {
+    /* Temporizador de 2 segundos (si quieres 3 como antes, cambia el 2 por 3) */
+    etimer_set(&timer2s, 2 * CLOCK_SECOND);
+    PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&timer2s));
 
+    /* Enviar evento al lector */
+    process_post(&temp_reader_process, PROCESS_EVENT_CONTINUE, NULL);
+  }
 
- /* Inicializar conexión UDP */
- simple_udp_register(&udp_conn, UDP_CLIENT_PORT, NULL,
-                     UDP_SERVER_PORT, udp_rx_callback);
-
-
- etimer_set(&periodic_timer, random_rand() % SEND_INTERVAL);
- while(1) {
-   PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&periodic_timer));
-
-
-   if(NETSTACK_ROUTING.node_is_reachable() &&
-       NETSTACK_ROUTING.get_root_ipaddr(&dest_ipaddr)) {
-
-
-     int temp_c;
-
-
-     /* Incrementar contador de envíos */
-     tx_count++;
-
-
-     /* (Opcional) estadísticas cada 10 envíos */
-     if(tx_count % 10 == 0) {
-       LOG_INFO(" Tx/Rx/MissedTx: %" PRIu32 "/%" PRIu32 "/%" PRIu32 "\n",
-                tx_count, rx_count, missed_tx_count);
-     }
-
-
-     /* Par/impar → interna/externa, con los mismos valores que el ejemplo */
-     if(tx_count % 2 == 1) {
-       temp_c = 42;  /* interna */
-       LOG_INFO(" Enviando temperatura interna en Celsius = %d\n", temp_c);
-     } else {
-       temp_c = 27;  /* externa */
-       LOG_INFO(" Enviando temperatura externa en Celsius = %d\n", temp_c);
-     }
-
-
-     /* Payload: temperatura en texto */
-     snprintf(str, sizeof(str), "%d", temp_c);
-
-
-     /* Enviar al servidor (root RPL) */
-     simple_udp_sendto(&udp_conn, str, strlen(str), &dest_ipaddr);
-
-
-   } else {
-     LOG_INFO(" Not reachable yet\n");
-     if(tx_count > 0) {
-       missed_tx_count++;
-     }
-   }
-
-
-   /* Jitter en el intervalo de envío */
-   etimer_set(&periodic_timer, SEND_INTERVAL
-     - CLOCK_SECOND + (random_rand() % (2 * CLOCK_SECOND)));
- }
-
-
- PROCESS_END();
+  PROCESS_END();
 }
-/*---------------------------------------------------------------------------*/
-
-/*---------------------------------------------------------------------------*/
