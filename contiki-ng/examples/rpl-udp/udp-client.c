@@ -41,7 +41,7 @@
 #define ALARM_INACTIVE  0x00
 
 /* Umbral de alarma en Grados C */
-#define TEMP_THRESHOLD_C   35
+#define TEMP_THRESHOLD_C 35
 #define F_MULT 45
 #define F_SUMM 3200
 
@@ -215,7 +215,7 @@ int i = 0;
         }
         */
         
-        LOG_INFO("Enmviando trama a ");
+        LOG_INFO("Enviando trama a ");
         LOG_INFO_6ADDR(&dest_ipaddr);
         LOG_INFO_("\n");
 
