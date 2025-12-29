@@ -41,7 +41,7 @@
 #define ALARM_INACTIVE  0x00
 
 /* Umbral de alarma en Grados C */
-#define TEMP_THRESHOLD_C 35
+#define TEMP_THRESHOLD_C 23
 #define F_MULT 45
 #define F_SUMM 3200
 
@@ -117,15 +117,17 @@ PROCESS_THREAD(udp_client_process, ev, data)
  int32_t temp_c_whole; 
  int32_t f_cent; 
 
- /* Auxiar para imprimir la trama e enviar byte a byte, debugging */
-uint8_t *byte_ptr;
-int i = 0;
+/* Para el debugging */
+int16_t temp_print;
 
+ /* Auxiar para imprimir la trama e enviar byte a byte, debugging */
+ uint8_t *byte_ptr;
+ int i = 0;
 
  /* Para estadísticas 
  static uint32_t tx_count;
  static uint32_t missed_tx_count;
-*/
+ */
  PROCESS_BEGIN();
 
  /* Activación del sensor de temperatura */
@@ -187,15 +189,17 @@ int i = 0;
 
         if(current_unit==UNIT_C) {
           msg.value = (int16_t)(raw_value * 4);
+          temp_print = temp_c_whole;
         }
         else {
           f_cent = (raw_value * F_MULT) + F_SUMM;
           msg.value = (int16_t)((f_cent * 16) /100);
+          temp_print = f_cent/100;
         }
         
         /* LOG_INFO (Datos legibles) */
-        LOG_INFO("Lectura: %ld (aprox %ld C) -> F12.4: %d\n", 
-                 (long)raw_value, (long)temp_c_whole, msg.value);
+        LOG_INFO("Lectura: %ld (aprox %ld %s) -> F12.4: %d\n", 
+                 (long)raw_value, (long)temp_print, (current_unit == UNIT_C) ? "ºC":"ºF", msg.value);
 
         /* LOG_DBG */
         LOG_DBG("TRAMA HEX (%d bytes): [ ", sizeof(metric_msg_t));
