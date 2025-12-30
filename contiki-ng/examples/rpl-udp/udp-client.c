@@ -152,10 +152,6 @@ int16_t temp_print;
  uint8_t *byte_ptr;
  int i = 0;
 
- /* Para estadísticas 
- static uint32_t tx_count;
- static uint32_t missed_tx_count;
- */
  PROCESS_BEGIN();
 
  /* Activación del sensor de temperatura */
@@ -238,15 +234,6 @@ int16_t temp_print;
         }
         LOG_DBG_("]\n");
 
-        /*
-        tx_count++;
-
-        if(tx_count % 10 == 0) {
-          LOG_INFO("Tx/Rx/MissedTx: %" PRIu32 "/%" PRIu32 "/%" PRIu32 "\n",
-                   tx_count, rx_count, missed_tx_count);
-        }
-        */
-        
         LOG_INFO("Enviando trama a ");
         LOG_INFO_6ADDR(&dest_ipaddr);
         LOG_INFO_("\n");
@@ -255,20 +242,17 @@ int16_t temp_print;
         simple_udp_sendto(&udp_conn, &msg, sizeof(msg), &dest_ipaddr);
 
       } 
+
       /*
       else {
-        LOG_INFO("Not reachable yet\n");
-      */   
-        /*
-        if(tx_count > 0) {
-          missed_tx_count++;
-        }
+        LOG_INFO("Not reachable yet\n");  
       }
       */
 
       /* COnfiguramos el timer a 5 segundos */
-    etimer_set(&periodic_timer, SEND_INTERVAL);    }
+    etimer_set(&periodic_timer, SEND_INTERVAL);    
   }
+}
 
  SENSORS_DEACTIVATE(temperature_sensor);
  PROCESS_END();
