@@ -7930,3 +7930,44 @@
 1767136307: Client auto-FFC35AC7-8FE3-E434-A05E-71356001E932 closed its connection.
 1767136308: mosquitto version 2.0.22 terminating
 1767136308: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1767985925: mosquitto version 2.0.22 starting
+1767985925: Config loaded from /mosquitto/config/mosquitto.conf.
+1767985925: Opening ipv4 listen socket on port 1883.
+1767985925: Opening ipv6 listen socket on port 1883.
+1767985925: mosquitto version 2.0.22 running
+1767985959: mosquitto version 2.0.22 terminating
+1767985959: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1767985967: mosquitto version 2.0.22 starting
+1767985967: Config loaded from /mosquitto/config/mosquitto.conf.
+1767985967: Opening ipv4 listen socket on port 1883.
+1767985967: Opening ipv6 listen socket on port 1883.
+1767985967: mosquitto version 2.0.22 running
+1767986263: New connection from 172.18.0.5:55389 on port 1883.
+1767986263: New client connected from 172.18.0.5:55389 as auto-BE3646C0-9928-08F4-59AF-1D4C4D3DB74D (p2, c1, k60).
+1767986263: No will message specified.
+1767986263: Sending CONNACK to auto-BE3646C0-9928-08F4-59AF-1D4C4D3DB74D (0, 0)
+1767986263: Received SUBSCRIBE from auto-BE3646C0-9928-08F4-59AF-1D4C4D3DB74D
+1767986263: 	temp_C (QoS 0)
+1767986263: auto-BE3646C0-9928-08F4-59AF-1D4C4D3DB74D 0 temp_C
+1767986263: Sending SUBACK to auto-BE3646C0-9928-08F4-59AF-1D4C4D3DB74D
+1767986263: Received SUBSCRIBE from auto-BE3646C0-9928-08F4-59AF-1D4C4D3DB74D
+1767986263: 	temp_F (QoS 0)
+1767986263: auto-BE3646C0-9928-08F4-59AF-1D4C4D3DB74D 0 temp_F
+1767986263: Sending SUBACK to auto-BE3646C0-9928-08F4-59AF-1D4C4D3DB74D
+1767986263: Received SUBSCRIBE from auto-BE3646C0-9928-08F4-59AF-1D4C4D3DB74D
+1767986263: 	alarm (QoS 0)
+1767986263: auto-BE3646C0-9928-08F4-59AF-1D4C4D3DB74D 0 alarm
+1767986263: Sending SUBACK to auto-BE3646C0-9928-08F4-59AF-1D4C4D3DB74D
+1767986324: Received PINGREQ from auto-BE3646C0-9928-08F4-59AF-1D4C4D3DB74D
+1767986324: Sending PINGRESP to auto-BE3646C0-9928-08F4-59AF-1D4C4D3DB74D
+1767986384: Received PINGREQ from auto-BE3646C0-9928-08F4-59AF-1D4C4D3DB74D
+1767986384: Sending PINGRESP to auto-BE3646C0-9928-08F4-59AF-1D4C4D3DB74D
+1767986444: Received PINGREQ from auto-BE3646C0-9928-08F4-59AF-1D4C4D3DB74D
+1767986444: Sending PINGRESP to auto-BE3646C0-9928-08F4-59AF-1D4C4D3DB74D
+1767986504: Received PINGREQ from auto-BE3646C0-9928-08F4-59AF-1D4C4D3DB74D
+1767986504: Sending PINGRESP to auto-BE3646C0-9928-08F4-59AF-1D4C4D3DB74D
+1767986564: Received PINGREQ from auto-BE3646C0-9928-08F4-59AF-1D4C4D3DB74D
+1767986564: Sending PINGRESP to auto-BE3646C0-9928-08F4-59AF-1D4C4D3DB74D
+1767986584: Client auto-BE3646C0-9928-08F4-59AF-1D4C4D3DB74D closed its connection.
+1767986584: mosquitto version 2.0.22 terminating
+1767986584: Saving in-memory database to /mosquitto/data//mosquitto.db.
