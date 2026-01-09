@@ -50,7 +50,7 @@ AUTOSTART_PROCESSES(&parpadeo_1_process, &parpadeo_2_process, &timer_process);
 PROCESS_THREAD(parpadeo_1_process, ev, data)
 {
   // creamos una estructura tipo etimer para el contador de 2 segundos
-  static struct etimer timer_2sec; 
+  static struct etimer timer_led1; 
 
   PROCESS_BEGIN();
 
@@ -59,10 +59,12 @@ PROCESS_THREAD(parpadeo_1_process, ev, data)
 
   while (1)
   {
-    etimer_set(&timer_2sec, 2*CLOCK_SECOND);
-    PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&timer_2sec));
+    etimer_set(&timer_led1, 2*CLOCK_SECOND);
+    PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&timer_led1));
     leds_toggle(LEDS_GREEN);
     printf("Cambiaddo LED VERDE\n");
+
+    etimer_reset(&timer_led1);
   }
   
   PROCESS_END();
@@ -72,7 +74,7 @@ PROCESS_THREAD(parpadeo_1_process, ev, data)
 PROCESS_THREAD(parpadeo_2_process, ev, data)
 {
   // creamos una estructura tipo etimer para el contador de 2 segundos
-  static struct etimer timer_4sec; 
+  static struct etimer timer_led2; 
 
   PROCESS_BEGIN();
 
@@ -81,10 +83,12 @@ PROCESS_THREAD(parpadeo_2_process, ev, data)
 
   while (1)
   {
-    etimer_set(&timer_4sec, 4*CLOCK_SECOND);
-    PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&timer_4sec));
-    leds_toggle(LEDS_YELLOW);
+    etimer_set(&timer_led2, 3*CLOCK_SECOND);
+    PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&timer_led2));
+    leds_toggle(LEDS_RED);
     printf("Cambiaddo LED AZUL\n");
+
+    etimer_reset(&timer_led2);
   }
   
   PROCESS_END();
@@ -92,12 +96,12 @@ PROCESS_THREAD(parpadeo_2_process, ev, data)
 
 PROCESS_THREAD(timer_process, ev, data)
 {
-  static struct etimer time_3sec;
+  static struct etimer time_init;
 
   PROCESS_BEGIN();
 
-  etimer_set(&time_3sec, 3*CLOCK_SECOND);
-  PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&time_3sec));;
+  etimer_set(&time_init, 5*CLOCK_SECOND);
+  PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&time_init));;
 
   process_poll(&parpadeo_1_process);
   process_poll(&parpadeo_2_process);

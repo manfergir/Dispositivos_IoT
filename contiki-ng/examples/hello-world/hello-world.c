@@ -47,24 +47,16 @@ AUTOSTART_PROCESSES(&hello_world_process, &periodic_process);
 /*---------------------------------------------------------------------------*/
 PROCESS_THREAD(hello_world_process, ev, data)
 {
-  // static struct etimer timer;
   static int8_t counter = 0;
 
   PROCESS_BEGIN();
-
-  /* Setup a periodic timer that expires after 10 seconds. */
-  // etimer_set(&timer, CLOCK_SECOND * 10);
 
   while(1) {
 
     // Haacemos esperar el procso el evento que lo ativa
     PROCESS_WAIT_EVENT();
 
-    printf("Hello, world (number %d)\n", counter);
-
-    /* Wait for the periodic timer to expire and then restart the timer. */
-    // PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&timer));
-    // etimer_reset(&timer);
+    printf("Hello World! (number %d)\n", counter);
 
     counter++;
     if(counter>20) {
@@ -84,7 +76,7 @@ PROCESS_THREAD(periodic_process, ev, data) {
 	while(1) {
 		// Seteamos un timer cada 5 segundos
 		etimer_set(&timer, 5*CLOCK_SECOND);
-		printf("Esperando 5 segundos");
+		//printf("Esperando 5 segundos");
 		
 		// Esperamos hasta un evento
 		PROCESS_WAIT_EVENT_UNTIL(etimer_expired(&timer));

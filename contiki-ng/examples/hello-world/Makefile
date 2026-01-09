@@ -1,4 +1,4 @@
-CONTIKI_PROJECT = blink
+CONTIKI_PROJECT = hello-world
 all: $(CONTIKI_PROJECT)
 
 CONTIKI = ../..
