@@ -9115,3 +9115,194 @@ DEBUG:[mqtt-exporter]:Serial: temp_c=30.75
 INFO:[mqtt-exporter]:[Topic: temp_c] b'30.75'
 DEBUG:[mqtt-exporter]:Serial: temp_F=87.35
 INFO:[mqtt-exporter]:[Topic: temp_F] b'87.35'
+INFO:[mqtt-exporter]:Connected rc=Success
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 96 (aprox 24 ºC) -> F12.4: 384
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 01 80 01 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 96 (aprox 24 ºC) -> F12.4: 384
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 01 80 01 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 96 (aprox 24 ºC) -> F12.4: 384
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 01 80 01 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 97 (aprox 24 ºC) -> F12.4: 388
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 01 84 01 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 96 (aprox 24 ºC) -> F12.4: 384
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 01 80 01 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 96 (aprox 24 ºC) -> F12.4: 384
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 01 80 01 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 97 (aprox 24 ºC) -> F12.4: 388
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 01 84 01 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 96 (aprox 24 ºC) -> F12.4: 384
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 01 80 01 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 97 (aprox 24 ºC) -> F12.4: 388
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 01 84 01 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 96 (aprox 24 ºC) -> F12.4: 384
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 01 80 01 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 96 (aprox 24 ºC) -> F12.4: 384
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 01 80 01 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 97 (aprox 24 ºC) -> F12.4: 388
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 01 84 01 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 97 (aprox 24 ºC) -> F12.4: 388
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 01 84 01 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 97 (aprox 24 ºC) -> F12.4: 388
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 01 84 01 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 97 (aprox 24 ºC) -> F12.4: 388
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 01 84 01 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 97 (aprox 24 ºC) -> F12.4: 388
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 01 84 01 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 97 (aprox 24 ºC) -> F12.4: 388
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 01 84 01 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 96 (aprox 24 ºC) -> F12.4: 384
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 01 80 01 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 97 (aprox 24 ºC) -> F12.4: 388
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 01 84 01 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 96 (aprox 24 ºC) -> F12.4: 384
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 01 80 01 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 96 (aprox 24 ºC) -> F12.4: 384
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 01 80 01 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 96 (aprox 24 ºC) -> F12.4: 384
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 01 80 01 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 97 (aprox 24 ºC) -> F12.4: 388
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 01 84 01 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 96 (aprox 24 ºC) -> F12.4: 384
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 01 80 01 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 97 (aprox 24 ºC) -> F12.4: 388
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 01 84 01 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 97 (aprox 24 ºC) -> F12.4: 388
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 01 84 01 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 97 (aprox 24 ºC) -> F12.4: 388
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 01 84 01 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 97 (aprox 24 ºC) -> F12.4: 388
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 01 84 01 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 97 (aprox 24 ºC) -> F12.4: 388
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 01 84 01 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 97 (aprox 24 ºC) -> F12.4: 388
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 01 84 01 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 97 (aprox 24 ºC) -> F12.4: 388
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 01 84 01 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 97 (aprox 24 ºC) -> F12.4: 388
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 01 84 01 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Botón pulsado, cambio de unidad a: Fahrenheit
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 100 (aprox 77 ºF) -> F12.4: 1232
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 02 D0 04 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 100 (aprox 77 ºF) -> F12.4: 1232
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 02 D0 04 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 100 (aprox 77 ºF) -> F12.4: 1232
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 02 D0 04 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 100 (aprox 77 ºF) -> F12.4: 1232
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 02 D0 04 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 100 (aprox 77 ºF) -> F12.4: 1232
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 02 D0 04 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 100 (aprox 77 ºF) -> F12.4: 1232
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 02 D0 04 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 100 (aprox 77 ºF) -> F12.4: 1232
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 02 D0 04 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 100 (aprox 77 ºF) -> F12.4: 1232
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 02 D0 04 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 100 (aprox 77 ºF) -> F12.4: 1232
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 02 D0 04 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 100 (aprox 77 ºF) -> F12.4: 1232
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 02 D0 04 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 99 (aprox 76 ºF) -> F12.4: 1224
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 02 C8 04 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 99 (aprox 76 ºF) -> F12.4: 1224
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 02 C8 04 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 99 (aprox 76 ºF) -> F12.4: 1224
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 02 C8 04 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 99 (aprox 76 ºF) -> F12.4: 1224
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 02 C8 04 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 99 (aprox 76 ºF) -> F12.4: 1224
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 02 C8 04 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 99 (aprox 76 ºF) -> F12.4: 1224
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 02 C8 04 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 99 (aprox 76 ºF) -> F12.4: 1224
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 02 C8 04 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 99 (aprox 76 ºF) -> F12.4: 1224
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 02 C8 04 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 99 (aprox 76 ºF) -> F12.4: 1224
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 02 C8 04 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 99 (aprox 76 ºF) -> F12.4: 1224
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 02 C8 04 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 99 (aprox 76 ºF) -> F12.4: 1224
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 02 C8 04 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 99 (aprox 76 ºF) -> F12.4: 1224
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 02 C8 04 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 99 (aprox 76 ºF) -> F12.4: 1224
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 02 C8 04 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 98 (aprox 76 ºF) -> F12.4: 1217
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 02 C1 04 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 98 (aprox 76 ºF) -> F12.4: 1217
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 02 C1 04 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 99 (aprox 76 ºF) -> F12.4: 1224
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 02 C8 04 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 98 (aprox 76 ºF) -> F12.4: 1217
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 02 C1 04 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 98 (aprox 76 ºF) -> F12.4: 1217
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 02 C1 04 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 98 (aprox 76 ºF) -> F12.4: 1217
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 02 C1 04 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 98 (aprox 76 ºF) -> F12.4: 1217
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 02 C1 04 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Lectura: 98 (aprox 76 ºF) -> F12.4: 1217
+DEBUG:[mqtt-exporter]:Serial: [DBG : App       ] TRAMA HEX (8 bytes): [ 55 01 AA 02 C1 04 01 01 ]
+DEBUG:[mqtt-exporter]:Serial: [INFO: App       ] Enviando trama a fd00::f6ce:367a:c0c7:1d31

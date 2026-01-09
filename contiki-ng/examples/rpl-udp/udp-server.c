@@ -62,6 +62,7 @@ typedef struct {
 } __attribute__((packed)) metric_msg_t;
 
 /* Para hacer las pruebas, lo que hacemos es crear una trama de test que contenga lo mismo que una trama del cli */
+#if MODO_TEST_LOCAL==1
 static uint8_t test_frame[] = { 
     0x55,       
     0x01,       
@@ -71,6 +72,7 @@ static uint8_t test_frame[] = {
     0x01,       
     0x00        
 };
+#endif
 
 PROCESS(udp_server_process, "UDP server");
 AUTOSTART_PROCESSES(&udp_server_process);
@@ -128,8 +130,10 @@ static void procesar_trama(const uint8_t *data, uint16_t len)
 #endif
 /*---------------------------------------------------------------------------*/
 PROCESS_THREAD(udp_server_process, ev, data) {
+#if MODO_TEST_LOCAL==1
   /* Timer solo necesario para el modo test */
   static struct etimer timer_simulacion;
+#endif
 
   PROCESS_BEGIN();
 
