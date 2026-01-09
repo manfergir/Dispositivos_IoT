@@ -47,6 +47,8 @@
 #include "dev/leds.h"  /* Driver LED rojo */
 #include "../arch/platform/nrf52840/common/temperature-sensor.h" /* Driver del sensor */
 
+// #define MODO_TEST_LOCAL 1
+
 #define UDP_CLIENT_PORT 8765
 #define UDP_SERVER_PORT 5678
 
@@ -175,11 +177,10 @@ int16_t temp_print;
        /* Envío cada 5 segundos */
     if(etimer_expired(&periodic_timer)) {
       
-      /* De momento, para hacer pruebas en local, bypass en la conexión con el servidor */
-      /* if(NETSTACK_ROUTING.node_is_reachable() &&
+      
+      if(NETSTACK_ROUTING.node_is_reachable() &&
          NETSTACK_ROUTING.get_root_ipaddr(&dest_ipaddr)) {
-      */
-      {
+
         raw_value = temperature_sensor.value(0);
         temp_c_whole = raw_value / 4;
 
@@ -243,12 +244,10 @@ int16_t temp_print;
 
       } 
 
-      /*
       else {
         LOG_INFO("Not reachable yet\n");  
       }
-      */
-
+      
       /* COnfiguramos el timer a 5 segundos */
     etimer_set(&periodic_timer, SEND_INTERVAL);    
   }

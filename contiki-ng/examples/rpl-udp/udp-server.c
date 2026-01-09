@@ -44,7 +44,7 @@
 #define UDP_SERVER_PORT 5678
 
 /* Variable para hacer test local sin dos dongle */
-#define MODO_TEST_LOCAL 1
+#define MODO_TEST_LOCAL 0
 
 #if MODO_TEST_LOCAL == 0
   static struct simple_udp_connection udp_conn;
@@ -150,7 +150,6 @@ PROCESS_THREAD(udp_server_process, ev, data) {
   }
 
 #else
-  /* --- MODO SIMULACIÓN (CASA) --- */
   /* No iniciamos red para evitar bloqueos. Simulamos recepción local */
   
   LOG_INFO("--- SERVIDOR MODO TEST LOCAL (Sin Red) ---\n");
