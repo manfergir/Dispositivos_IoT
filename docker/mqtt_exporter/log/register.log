@@ -9115,3 +9115,414 @@ DEBUG:[mqtt-exporter]:Serial: temp_c=30.75
 INFO:[mqtt-exporter]:[Topic: temp_c] b'30.75'
 DEBUG:[mqtt-exporter]:Serial: temp_F=87.35
 INFO:[mqtt-exporter]:[Topic: temp_F] b'87.35'
+INFO:[mqtt-exporter]:Connected rc=Success
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
+DEBUG:[mqtt-exporter]:Serial: 170;C;22.7500;1;0
+INFO:[mqtt-exporter]:Publish temp in ºC = 22.75
+INFO:[mqtt-exporter]:Published alarm status = 0
+INFO:[mqtt-exporter]:[Topic: temp_C] b'22.75'
+INFO:[mqtt-exporter]:[Topic: alarm] b'0'
