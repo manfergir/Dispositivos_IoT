@@ -86,8 +86,10 @@ def main():
                     # Se envía la temperatura al topic indicado según el valor de las unidades
                     if unit=="C":
                         client.publish("temp_C", payload=json.dumps(temp_val), qos=0, retain=False)
+                        prom_temp_f.set(0)
                     elif unit=="F":
                         client.publish("temp_F", payload=json.dumps(temp_val), qos=0, retain=False)
+                        prom_temp_c.set(0)
                     LOG.info(f"Publish temp in º{unit} = {temp_val}")
 
                     # Enviamos el estado de la alarma
