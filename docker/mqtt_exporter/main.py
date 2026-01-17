@@ -6,7 +6,9 @@ from prometheus_client import Counter, Gauge, start_http_server
 MQTT_ADDRESS = os.getenv("MQTT_ADDRESS")
 MQTT_PORT = int(os.getenv("MQTT_PORT", "1883"))
 
-logging.basicConfig(filename='/mqtt_exporter/log/register.log', level=logging.DEBUG)
+logging.basicConfig(filename='/mqtt_exporter/log/register.log', 
+                    format='%(asctime)s %(levelname)s:%(message)s',
+                    level=logging.DEBUG)
 LOG = logging.getLogger("[mqtt-exporter]")
 
 prom_msg_counter = Counter('number_msgs', 'Number of received messages')

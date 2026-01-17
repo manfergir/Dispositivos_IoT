@@ -57,20 +57,22 @@ services:
     restart: unless-stopped
 
   grafana:
-    image: grafana/grafana
+    image: grafana/grafana:latest
     container_name: grafana
     ports:
-      - 3000:3000
+      - "3000:3000"
     volumes:
-      - ./grafana/config/datasources:/etc/grafana/datasources
-      - ./grafana/config/dashboards:/etc/grafana/dashboards
       - grafana_data:/var/lib/grafana
       - /etc/localtime:/etc/localtime:ro
+      - ./grafana_provisioning:/etc/grafana/provisioning/dashboards
+      - ./grafana_provisioning:/etc/grafana/provisioning/datasources
     environment:
       - TZ=Europe/Madrid
     networks:
       - mqtt_network
     restart: unless-stopped
+    depends_on:
+      - prometheus
 
 networks:
   mqtt_network:
