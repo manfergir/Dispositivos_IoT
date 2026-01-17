@@ -106,7 +106,7 @@ static void procesar_trama(const uint8_t *data, uint16_t len)
   printf("%d;%s;%d.%04ld;%d;%d\n", 
          msg.node_id, 
          (msg.unit == 0x01) ? "C" : "F",
-         parte_entera, (long)parte_decimal,
+         parte_entera, (long)parte_decimal, // Formato long para asegurarnos print correcto
          msg.alarm_type, 
          msg.alarm_status);
 }
@@ -138,9 +138,7 @@ PROCESS_THREAD(udp_server_process, ev, data) {
   PROCESS_BEGIN();
 
 #if MODO_TEST_LOCAL == 0
-  /* --- MODO REAL (CLASE) --- */
   /* Inicializamos la red como ROOT y abrimos el puerto UDP */
-  
   NETSTACK_ROUTING.root_start();
   
   simple_udp_register(&udp_conn, UDP_SERVER_PORT, NULL,
@@ -155,7 +153,6 @@ PROCESS_THREAD(udp_server_process, ev, data) {
 
 #else
   /* No iniciamos red para evitar bloqueos. Simulamos recepción local */
-  
   LOG_INFO("--- SERVIDOR MODO TEST LOCAL (Sin Red) ---\n");
   LOG_INFO("Simulando datos del array estatico...\n");
 

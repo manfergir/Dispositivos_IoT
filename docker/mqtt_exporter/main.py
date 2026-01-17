@@ -76,7 +76,7 @@ def main():
             try:
                 parts = s.split(";")
 
-                # COmprobación de la longitud de la trama 
+                # Comprobación de la longitud de la trama 
                 # (ponemos >= por si queremos ampliarla en el futuro)
                 if len(parts)>=5:
                     # Obtenemos los distintos valores
@@ -85,7 +85,10 @@ def main():
                     alarm_type = int(parts[3])
                     alarm_status = int(parts[4])
 
-                    # Se envía la temperatura al topic indicado según el valor de las unidades
+                    # Se envía la temperatura al topic indicado según el valor de las unidades. 
+                    # NOTA: ahora mismo, si se cambia de unidades, la otra pasa a valer cero. Por defecto
+                    # MQTT mantiene la última lectura, pero creo que sería confuso ver dos gráficas que 
+                    # miden lo mismo con distinta evolución.
                     if unit=="C":
                         client.publish("temp_C", payload=json.dumps(temp_val), qos=0, retain=False)
                         prom_temp_f.set(0)

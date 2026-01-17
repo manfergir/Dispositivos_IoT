@@ -55,7 +55,7 @@
 /* Se fija el envio cada 5 segundos */
 #define SEND_INTERVAL (5 * CLOCK_SECOND)
 
-/* Se fija el parpadeo del LED cada 2 segundos */
+/* Se fija el parpadeo del LED cada 0.5 segundos */
 #define BLINK_INTERVAL (CLOCK_SECOND / 2)
 
 /* Contantes para el protocolo */
@@ -174,7 +174,7 @@ int16_t temp_print;
       LOG_INFO("Botón pulsado, cambio de unidad a: %s\n", (current_unit == UNIT_C) ? "Celsius" : "Fahrenheit");
     }
 
-       /* Envío cada 5 segundos */
+    /* Envío cada 5 segundos */
     if(etimer_expired(&periodic_timer)) {
       
       
@@ -222,11 +222,11 @@ int16_t temp_print;
           temp_print = f_cent/100;
         }
         
-        /* LOG_INFO (Datos legibles) */
+        /* Printeamos datos legibles y la unidad de la medida */
         LOG_INFO("Lectura: %ld (aprox %ld %s) -> F12.4: %d\n", 
                  (long)raw_value, (long)temp_print, (current_unit == UNIT_C) ? "ºC":"ºF", msg.value);
 
-        /* LOG_DBG */
+        /* Printeamos la trama */
         LOG_DBG("TRAMA HEX (%d bytes): [ ", sizeof(metric_msg_t));
         byte_ptr = (uint8_t *)&msg;
 
