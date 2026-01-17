@@ -1,0 +1,3532 @@
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 38.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'38.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 38.0
+INFO:[mqtt-exporter]:Payload 38.0
+DEBUG:[mqtt-exporter]:Serial Data: 38.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'38.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 38.0
+INFO:[mqtt-exporter]:Payload 38.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 38.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'38.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 38.0
+INFO:[mqtt-exporter]:Payload 38.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 38.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'38.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 38.0
+INFO:[mqtt-exporter]:Payload 38.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 38.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'38.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 38.0
+INFO:[mqtt-exporter]:Payload 38.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 38.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'38.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 38.0
+INFO:[mqtt-exporter]:Payload 38.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 38.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'38.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 38.0
+INFO:[mqtt-exporter]:Payload 38.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+DEBUG:[mqtt-exporter]:Serial Data: 37.0
+INFO:[mqtt-exporter]: [Topic: Temp] b'37.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 37.0
+INFO:[mqtt-exporter]:Payload 37.0
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: [INFO: App       ]  Enviando temperatura interna en Celsius = 42
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: [INFO: App       ]  Enviando temperatura externa en Celsius = 27
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: [INFO: App       ]  Enviando temperatura externa en Celsius = 27
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: [INFO: App       ]  Enviando temperatura interna en Celsius = 42
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: [INFO: App       ]  Enviando temperatura externa en Celsius = 27
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: [INFO: App       ]  Enviando temperatura interna en Celsius = 42
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: [INFO: App       ]  Enviando temperatura externa en Celsius = 27
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: [INFO: App       ]  Enviando temperatura interna en Celsius = 42
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: Temperatura:  C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: 139139 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: Temperatura: 139Temperatura:  C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: 138 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: Temperatura: Temperatura:  C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: Tem139 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: 1 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: 138 138 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+INFO:[mqtt-exporter]: Connected with result code: Success
+DEBUG:[mqtt-exporter]:Serial Data: Temperatura: 138 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: Temperatura: 140Temperatura: 141 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: Temperatura: 141 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: Temperatura:  C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: T140 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: Temperatura: Temperatura: 140 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: T141 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: T141 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: Temperat141 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: Temperatura: 141 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: Temperatura: 142 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: Temperatura: 139 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: Temperatura:  C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: T135135135 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: Temperatura:  C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: Temper 135Temperatura: 135Temperatura:  C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: Temperatura: 135Temperatura: Temperatura: 136 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data:  C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: 136 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: 13 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: 1136 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: T136 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data:  136 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: Temperatura: 136 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: Temperatura: 135 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: Temperatura: 135 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: Temperatura: 135 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: Temperatura: 136 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: Temperatura: 135 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: Temperatura: 134 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: Temperatura: 135 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: Temperatura: 135 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: Temperatura: 136 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: Temperatura: 135 C
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: 33.25
+INFO:[mqtt-exporter]: [Topic: Temp] b'33.25'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 33.25
+INFO:[mqtt-exporter]:Payload 33.25
+DEBUG:[mqtt-exporter]:Serial Data: 33.25
+INFO:[mqtt-exporter]: [Topic: Temp] b'33.25'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 33.25
+INFO:[mqtt-exporter]:Payload 33.25
+DEBUG:[mqtt-exporter]:Serial Data: 33.25
+INFO:[mqtt-exporter]: [Topic: Temp] b'33.25'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 33.25
+INFO:[mqtt-exporter]:Payload 33.25
+DEBUG:[mqtt-exporter]:Serial Data: 33.25
+INFO:[mqtt-exporter]: [Topic: Temp] b'33.25'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 33.25
+INFO:[mqtt-exporter]:Payload 33.25
+DEBUG:[mqtt-exporter]:Serial Data: 33.25
+INFO:[mqtt-exporter]: [Topic: Temp] b'33.25'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 33.25
+INFO:[mqtt-exporter]:Payload 33.25
+DEBUG:[mqtt-exporter]:Serial Data: 33.50
+INFO:[mqtt-exporter]: [Topic: Temp] b'33.5'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 33.5
+INFO:[mqtt-exporter]:Payload 33.5
+DEBUG:[mqtt-exporter]:Serial Data: 33.50
+INFO:[mqtt-exporter]: [Topic: Temp] b'33.5'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 33.5
+INFO:[mqtt-exporter]:Payload 33.5
+DEBUG:[mqtt-exporter]:Serial Data: 33.50
+INFO:[mqtt-exporter]: [Topic: Temp] b'33.5'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 33.5
+INFO:[mqtt-exporter]:Payload 33.5
+DEBUG:[mqtt-exporter]:Serial Data: 33.50
+INFO:[mqtt-exporter]: [Topic: Temp] b'33.5'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 33.5
+INFO:[mqtt-exporter]:Payload 33.5
+DEBUG:[mqtt-exporter]:Serial Data: 33.50
+INFO:[mqtt-exporter]: [Topic: Temp] b'33.5'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 33.5
+INFO:[mqtt-exporter]:Payload 33.5
+DEBUG:[mqtt-exporter]:Serial Data: 33.50
+INFO:[mqtt-exporter]: [Topic: Temp] b'33.5'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 33.5
+INFO:[mqtt-exporter]:Payload 33.5
+DEBUG:[mqtt-exporter]:Serial Data: 33.75
+INFO:[mqtt-exporter]: [Topic: Temp] b'33.75'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 33.75
+INFO:[mqtt-exporter]:Payload 33.75
+DEBUG:[mqtt-exporter]:Serial Data: 33.75
+INFO:[mqtt-exporter]: [Topic: Temp] b'33.75'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 33.75
+INFO:[mqtt-exporter]:Payload 33.75
+DEBUG:[mqtt-exporter]:Serial Data: 33.75
+INFO:[mqtt-exporter]: [Topic: Temp] b'33.75'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 33.75
+INFO:[mqtt-exporter]:Payload 33.75
+DEBUG:[mqtt-exporter]:Serial Data: 33.75
+INFO:[mqtt-exporter]: [Topic: Temp] b'33.75'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 33.75
+INFO:[mqtt-exporter]:Payload 33.75
+DEBUG:[mqtt-exporter]:Serial Data: 33.75
+INFO:[mqtt-exporter]: [Topic: Temp] b'33.75'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 33.75
+INFO:[mqtt-exporter]:Payload 33.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'34.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 34.0
+INFO:[mqtt-exporter]:Payload 34.0
+DEBUG:[mqtt-exporter]:Serial Data: 34.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'34.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 34.0
+INFO:[mqtt-exporter]:Payload 34.0
+DEBUG:[mqtt-exporter]:Serial Data: 34.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'34.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 34.0
+INFO:[mqtt-exporter]:Payload 34.0
+DEBUG:[mqtt-exporter]:Serial Data: 34.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'34.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 34.0
+INFO:[mqtt-exporter]:Payload 34.0
+DEBUG:[mqtt-exporter]:Serial Data: 34.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'34.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 34.0
+INFO:[mqtt-exporter]:Payload 34.0
+DEBUG:[mqtt-exporter]:Serial Data: 34.25
+INFO:[mqtt-exporter]: [Topic: Temp] b'34.25'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 34.25
+INFO:[mqtt-exporter]:Payload 34.25
+DEBUG:[mqtt-exporter]:Serial Data: 34.25
+INFO:[mqtt-exporter]: [Topic: Temp] b'34.25'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 34.25
+INFO:[mqtt-exporter]:Payload 34.25
+DEBUG:[mqtt-exporter]:Serial Data: 34.25
+INFO:[mqtt-exporter]: [Topic: Temp] b'34.25'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 34.25
+INFO:[mqtt-exporter]:Payload 34.25
+DEBUG:[mqtt-exporter]:Serial Data: 34.25
+INFO:[mqtt-exporter]: [Topic: Temp] b'34.25'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 34.25
+INFO:[mqtt-exporter]:Payload 34.25
+DEBUG:[mqtt-exporter]:Serial Data: 34.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'34.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 34.0
+INFO:[mqtt-exporter]:Payload 34.0
+DEBUG:[mqtt-exporter]:Serial Data: 34.25
+INFO:[mqtt-exporter]: [Topic: Temp] b'34.25'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 34.25
+INFO:[mqtt-exporter]:Payload 34.25
+DEBUG:[mqtt-exporter]:Serial Data: 34.25
+INFO:[mqtt-exporter]: [Topic: Temp] b'34.25'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 34.25
+INFO:[mqtt-exporter]:Payload 34.25
+DEBUG:[mqtt-exporter]:Serial Data: 34.50
+INFO:[mqtt-exporter]: [Topic: Temp] b'34.5'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 34.5
+INFO:[mqtt-exporter]:Payload 34.5
+DEBUG:[mqtt-exporter]:Serial Data: 34.50
+INFO:[mqtt-exporter]: [Topic: Temp] b'34.5'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 34.5
+INFO:[mqtt-exporter]:Payload 34.5
+DEBUG:[mqtt-exporter]:Serial Data: 34.50
+INFO:[mqtt-exporter]: [Topic: Temp] b'34.5'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 34.5
+INFO:[mqtt-exporter]:Payload 34.5
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: Temp] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.50
+INFO:[mqtt-exporter]: [Topic: Temp] b'34.5'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 34.5
+INFO:[mqtt-exporter]:Payload 34.5
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: Temp] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: Temp] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: Temp] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: Temp] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: Temp] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: Temp] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: Temp] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: Temp] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: Temp] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: Temp] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: Temp] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: Temp] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: Temp] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: Temp] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: Temp] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: Temp] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: Temp
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+INFO:[mqtt-exporter]:Created counter for message number
+INFO:[mqtt-exporter]:Created gauge for temperature
+DEBUG:[mqtt-exporter]: Connecting to Mosquitto container 
+DEBUG:[mqtt-exporter]:Address: mosquitto
+DEBUG:[mqtt-exporter]:Port: 1883
+INFO:[mqtt-exporter]: Connected with result code: Success
+INFO:[mqtt-exporter]:Serial Port /dev/ACM0 is opened
+DEBUG:[mqtt-exporter]:Serial Data: 34.25
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.25'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.25
+INFO:[mqtt-exporter]:Payload 34.25
+DEBUG:[mqtt-exporter]:Serial Data: 34.25
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.25'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.25
+INFO:[mqtt-exporter]:Payload 34.25
+DEBUG:[mqtt-exporter]:Serial Data: 34.50
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.5'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.5
+INFO:[mqtt-exporter]:Payload 34.5
+DEBUG:[mqtt-exporter]:Serial Data: 34.25
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.25'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.25
+INFO:[mqtt-exporter]:Payload 34.25
+DEBUG:[mqtt-exporter]:Serial Data: 34.50
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.5'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.5
+INFO:[mqtt-exporter]:Payload 34.5
+DEBUG:[mqtt-exporter]:Serial Data: 34.25
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.25'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.25
+INFO:[mqtt-exporter]:Payload 34.25
+DEBUG:[mqtt-exporter]:Serial Data: 34.25
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.25'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.25
+INFO:[mqtt-exporter]:Payload 34.25
+DEBUG:[mqtt-exporter]:Serial Data: 34.50
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.5'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.5
+INFO:[mqtt-exporter]:Payload 34.5
+DEBUG:[mqtt-exporter]:Serial Data: 34.50
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.5'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.5
+INFO:[mqtt-exporter]:Payload 34.5
+DEBUG:[mqtt-exporter]:Serial Data: 34.50
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.5'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.5
+INFO:[mqtt-exporter]:Payload 34.5
+DEBUG:[mqtt-exporter]:Serial Data: 34.50
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.5'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.5
+INFO:[mqtt-exporter]:Payload 34.5
+DEBUG:[mqtt-exporter]:Serial Data: 34.50
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.5'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.5
+INFO:[mqtt-exporter]:Payload 34.5
+DEBUG:[mqtt-exporter]:Serial Data: 34.50
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.5'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.5
+INFO:[mqtt-exporter]:Payload 34.5
+DEBUG:[mqtt-exporter]:Serial Data: 34.50
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.5'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.5
+INFO:[mqtt-exporter]:Payload 34.5
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.50
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.5'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.5
+INFO:[mqtt-exporter]:Payload 34.5
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.50
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.5'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.5
+INFO:[mqtt-exporter]:Payload 34.5
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 34.75
+INFO:[mqtt-exporter]: [Topic: temp_F] b'34.75'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 34.75
+INFO:[mqtt-exporter]:Payload 34.75
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.25
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.25'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.25
+INFO:[mqtt-exporter]:Payload 35.25
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.25
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.25'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.25
+INFO:[mqtt-exporter]:Payload 35.25
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.25
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.25'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.25
+INFO:[mqtt-exporter]:Payload 35.25
+DEBUG:[mqtt-exporter]:Serial Data: 35.25
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.25'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.25
+INFO:[mqtt-exporter]:Payload 35.25
+DEBUG:[mqtt-exporter]:Serial Data: 35.25
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.25'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.25
+INFO:[mqtt-exporter]:Payload 35.25
+DEBUG:[mqtt-exporter]:Serial Data: 35.25
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.25'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.25
+INFO:[mqtt-exporter]:Payload 35.25
+DEBUG:[mqtt-exporter]:Serial Data: 35.25
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.25'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.25
+INFO:[mqtt-exporter]:Payload 35.25
+DEBUG:[mqtt-exporter]:Serial Data: 35.25
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.25'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.25
+INFO:[mqtt-exporter]:Payload 35.25
+DEBUG:[mqtt-exporter]:Serial Data: 35.25
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.25'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.25
+INFO:[mqtt-exporter]:Payload 35.25
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
+DEBUG:[mqtt-exporter]:Serial Data: 35.00
+INFO:[mqtt-exporter]: [Topic: temp_F] b'35.0'
+DEBUG:[mqtt-exporter]: 	 Topic: temp_F
+DEBUG:[mqtt-exporter]: 	 Payload: 35.0
+INFO:[mqtt-exporter]:Payload 35.0
