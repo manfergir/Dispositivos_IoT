@@ -81,12 +81,7 @@ udp_rx_callback(struct simple_udp_connection *c,
 PROCESS_THREAD(contiki_ng_br, ev, data)
 {
   PROCESS_BEGIN();
-
-#if BORDER_ROUTER_CONF_WEBSERVER
-  PROCESS_NAME(webserver_nogui_process);
-  process_start(&webserver_nogui_process, NULL);
-#endif 
-
+ 
   LOG_INFO("Contiki-NG Border Router started\n");
 
   simple_udp_register(&udp_conn, UDP_SERVER_PORT, NULL,
