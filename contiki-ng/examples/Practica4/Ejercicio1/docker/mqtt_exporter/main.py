@@ -36,7 +36,7 @@ def create_msg_counter_metrics():
 def create_temp_gauge_metrics():
     global prom_temp_gauge
     LOG.info("Created gauge for temperature")
-    prom_temp_gauge = Gauge( 'temp',
+    prom_temp_gauge = Gauge( 'temp_F',
         'Temperature [Celsius Degrees]')
 
 def parse_message(raw_topic, raw_payload):

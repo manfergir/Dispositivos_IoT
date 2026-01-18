@@ -8,45 +8,34 @@ PROCESS(temp_reader_process, "Temperature reader");
 PROCESS(temp_timer_process,  "Temperature timer");
 AUTOSTART_PROCESSES(&temp_reader_process, &temp_timer_process);
 
-
-
-
 PROCESS_THREAD(temp_reader_process, ev, data)
 {
- static int32_t t_c; /* grados C como entero */
- static int32_t entero;
- static int32_t decimal;
+  static int32_t raw_value;
+  static int32_t f_centimas; // Valor en Farenheit multiplicado por 100
+  static int32_t entero_f;
+  static int32_t decimal_f;
 
+  PROCESS_BEGIN();
 
- PROCESS_BEGIN();
+  /* Activar el sensor interno de temperatura */
+  SENSORS_ACTIVATE(temperature_sensor);
 
+  while(1) {
+    /* Espera el evento del temporizador */
+    PROCESS_WAIT_EVENT_UNTIL(ev == PROCESS_EVENT_CONTINUE);
 
- /* Activar el sensor interno de temperatura */
- SENSORS_ACTIVATE(temperature_sensor);
+    raw_value = temperature_sensor.value(0);
+    
+    f_centimas = (raw_value * 45) + 3200;
 
+    entero_f = f_centimas / 100;
+    decimal_f = f_centimas % 100;
 
- while(1) {
-   /* Espera el evento del temporizador */
-   PROCESS_WAIT_EVENT_UNTIL(ev == PROCESS_EVENT_CONTINUE);
+    printf("%ld.%02ld\n", (long)entero_f, (long)decimal_f);
+  }
 
-
-   /* Leer y mostrar (en °C) */
-   t_c = temperature_sensor.value(0);
-
-
-   // Almacenamos la parte entera
-   entero = t_c >> 2;
-
-
-   // ALmacenamos la parte decimal
-   decimal = (t_c & 0b11) * 25;
-   printf("%ld.%02ld\n", (long)entero, (long)decimal);
- }
-
-
- /* (No se alcanzará en este ejemplo) */
- SENSORS_DEACTIVATE(temperature_sensor);
- PROCESS_END();
+  SENSORS_DEACTIVATE(temperature_sensor);
+  PROCESS_END();
 }
 
 
