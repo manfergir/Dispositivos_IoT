@@ -1,0 +1,83 @@
+version: "3"
+
+services:
+  mosquitto:
+    image: eclipse-mosquitto:latest
+    container_name: mosquitto
+    volumes:
+      - ./mosquitto/conf/mosquitto.conf:/mosquitto/config/mosquitto.conf
+      - ./mosquitto/log:/mosquitto/log
+      - ./mosquitto/data:/mosquitto/data
+      - /etc/localtime:/etc/localtime:ro # Para el tema de la hora
+    environment:
+      - TZ=Europe/Madrid
+    ports:
+      - 1883:1883
+    networks:
+      - mqtt_network
+    restart: unless-stopped
+
+  mqtt-exporter:
+    build: ./mqtt_exporter
+    container_name: mqtt_exporter
+    devices:
+      - /dev/ttyACM0
+    depends_on:
+      - mosquitto
+      - prometheus
+    environment:
+      - MQTT_ADDRESS=mosquitto
+      - MQTT_PORT=1883
+      - TZ=Europe/Madrid
+    volumes:
+      - ./mqtt_exporter/log:/mqtt_exporter/log
+      - /etc/localtime:/etc/localtime:ro
+    ports:
+      - 9000:9000
+    networks:
+      - mqtt_network
+    restart: unless-stopped
+
+  prometheus:
+    image: prom/prometheus:latest
+    container_name: prometheus
+    volumes:
+      - ./prometheus/config:/etc/prometheus/
+      - prometheus_data:/prometheus/data
+      - /etc/localtime:/etc/localtime:ro
+    environment:
+      - TZ=Europe/Madrid
+    command:
+      - "--config.file=/etc/prometheus/prometheus.yml"
+      - "--storage.tsdb.path=/prometheus"
+    ports:
+      - 9090:9090
+    networks:
+      - mqtt_network
+    restart: unless-stopped
+
+  grafana:
+    image: grafana/grafana:latest
+    container_name: grafana
+    ports:
+      - "3000:3000"
+    volumes:
+      - grafana_data:/var/lib/grafana
+      - /etc/localtime:/etc/localtime:ro
+      - ./grafana_provisioning:/etc/grafana/provisioning/dashboards
+      - ./grafana_provisioning:/etc/grafana/provisioning/datasources
+    environment:
+      - TZ=Europe/Madrid
+    networks:
+      - mqtt_network
+    restart: unless-stopped
+    depends_on:
+      - prometheus
+
+networks:
+  mqtt_network:
+    driver: bridge
+
+volumes:
+  prometheus_data:
+  grafana_data:
