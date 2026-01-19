@@ -1,0 +1,3 @@
+En la carpeta actual se encuentran el código fuente, Makefile y carpeta build de los ejercicios 1, 2 y 3 de la práctica 2. Cada uno de ellos se puede ejecutar directamente con los comandos correspondientes en desde cada una de las carpetas, ya que se ha configurado el path de Makefile.include en cada uno de los Makefiles utilizados. 
+
+Trabajo realizado por Manuel Fernández Giráldez y Nuria Sorrentino Rebull
